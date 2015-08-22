@@ -22,5 +22,5 @@ git clone git@github.com:everyside/Fenestra.git
 cd Fenestra/
 git remote add resin g_dani_pletter@git.resin.io:g_dani_pletter/fenestra.git
 ```  
-8.  asdf  
-9.  adsf  
+8. Have a good think about what comes next.
+9. 
