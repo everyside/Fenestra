@@ -23,4 +23,4 @@ cd Fenestra/
 git remote add resin g_dani_pletter@git.resin.io:g_dani_pletter/fenestra.git
 ```  
 8. Have a good think about what comes next.
-9. 
+9. Also have a think about how ANYONE uses markdown to convey meaning.
